@@ -1,0 +1,29 @@
+{
+  "name": "LiquidCrystal_I2C",
+  "keywords": "LCD, liquidcrystal, I2C",
+  "description": "An original Frank de Brabander library for I2C LCD displays.",
+  "version": "1.0.0",
+  "authors":
+  [
+    {
+      "name": "Frank de Brabander",
+      "url": "https://github.com/fdebrabander"
+    },
+    {
+      "name": "Kirill Shumilov",
+      "email": "hello@ditd.ru",
+      "url": "https://github.com/brusherru",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/brusherru/Arduino-LiquidCrystal-I2C-library"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
